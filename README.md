@@ -1,16 +1,10 @@
 # 30DayMapChallenge
-Data, Code, and Visualizations for the #30DayMapChallenge
 
+## Day 2 (Lines)
 
-## [Day 1 (Points)](https://twitter.com/BlakeRobMills/status/1455383350613626883)
-For this plot, I wanted to show community spaces in Manhattan. Relatively simple for my first plot. All data comes from NYC Open Data, using the [Borough Boundaries](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm) for the outline of Manhattan and the [Pluto Data](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page) for the points. 
-[Full Code](https://github.com/BlakeRMills/30DayMapChallenge/blob/main/Day%201%20(Points)/Day%201%20(Points).R), [Full Map](https://raw.githubusercontent.com/BlakeRMills/30DayMapChallenge/main/Day%201%20(Points)/Manhattan%20Spaces%20(Day%201%20Points).png)
+This map is built on top of [BlakeRobMills’s] map which can bound on [Twitter](https://twitter.com/BlakeRobMills/status/1455691876091170820) and on [GitHub](https://github.com/BlakeRMills/30DayMapChallenge).
 
-![PlotDay1](https://raw.githubusercontent.com/BlakeRMills/30DayMapChallenge/main/Day%201%20(Points)/Manhattan%20Spaces%20(Day%201%20Points).png)
+I merely added the data and the visualization for Zurich, Switzerland, changed some of the styling, added an R project, hopefully improved some of the code (the original R code didn’t load all necessary libraries, e.g.) and expanded the comments a bit. Kudos go to [BlakeRobMills](https://twitter.com/BlakeRobMills) for the idea and original execution.
 
-## [Day 2 (Lines)](https://twitter.com/BlakeRobMills/status/1455691876091170820)
-For this map, I tried something a little more ambitious. I wanted to plot the different bike lanes in global cities. All data comes from each cities open data, but I have attached a copy in my repository. I'm thinking about coming back to this plot and adding more cities. Thoughts?
-The following likes take you to the source for each city's data: [Barcelona](https://opendata-ajuntament.barcelona.cat/data/en/dataset/carril-bici), [Berlin](https://daten.odis-berlin.de/archive/radverkehrsanlagen/), [Chicago](https://data.cityofchicago.org/Transportation/Bike-Routes/3w5d-sru8), [London](https://data.london.gov.uk/dataset/cycling-infrastructure-database), [Melbourne](https://data.melbourne.vic.gov.au/Transport/Bicycle-routes-including-informal-on-road-and-off-/24aw-nd3i), [Milan](https://dati.comune.milano.it/dataset/ds60_infogeo_piste_ciclabili_localizzazione_), [New York](https://data.cityofnewyork.us/Transportation/Bicycle-Routes/7vsa-caz7), [Sydney](https://data.cityofsydney.nsw.gov.au/datasets/cityofsydney::cycle-network/explore?location=-33.888968%2C151.206972%2C13.33), and [Toronto](https://open.toronto.ca/dataset/bikeways/).
+![Map](https://github.com/rastrau/30DayMapChallenge/blob/main/Day%202%20(Lines)/30day map challenge - day 2 - lines.png)
 
-[Full Map](https://ibb.co/yF1mk3g), [Full Code](https://github.com/BlakeRMills/30DayMapChallenge/blob/main/Day%202%20(Lines)/Day%202%20(Lines).R), [Map Download](https://github.com/BlakeRMills/30DayMapChallenge/blob/main/Day%202%20(Lines)/Day%202%20Lines.png), [All Files](https://github.com/BlakeRMills/30DayMapChallenge/tree/main/Day%202%20(Lines)/Data)
-![PlotDay2](https://github.com/BlakeRMills/30DayMapChallenge/blob/main/Day%202%20(Lines)/Day%202%20Lines.png)
