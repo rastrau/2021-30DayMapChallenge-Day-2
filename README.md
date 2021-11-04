@@ -6,5 +6,7 @@ This map is built on top of [BlakeRobMills](https://twitter.com/BlakeRobMills)â€
 
 I merely added the data and the visualization for Zurich, Switzerland, changed the layout and some of the styling, added an R project, hopefully improved some of the code (the original R code didnâ€™t load all necessary libraries, e.g.) and expanded the comments a bit. Kudos go to [BlakeRobMills](https://twitter.com/BlakeRobMills) for the idea and original execution.
 
+*Update: I corrected the "London" data to show cycling infrastructure in London, UK, instead of London, Ontario, Canada.*
+
 ![Map](https://github.com/rastrau/30DayMapChallenge/blob/main/Day%202%20(Lines)/30day%20map%20challenge%20-%20day%202%20-%20lines.png)
 
