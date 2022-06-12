@@ -1,6 +1,4 @@
-# 30DayMapChallenge
-
-## Day 2 (Lines)
+# 2021 30DayMapChallenge, Day 2: Topic "Lines"
 
 This map is built on top of [BlakeRobMills](https://twitter.com/BlakeRobMills)’s map which can be found on [Twitter](https://twitter.com/BlakeRobMills/status/1455691876091170820) and on [GitHub](https://github.com/BlakeRMills/30DayMapChallenge).
 
